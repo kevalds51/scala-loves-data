@@ -1,5 +1,3 @@
-package com.rockthejvm
-
 object Basics extends App {
   val my_permanent_lucky_number : Int = 51;
   var my_changing_lucky_number : Int = 54;
